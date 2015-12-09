@@ -6,10 +6,10 @@ A string of lyrics will appear on the screen, along with a set of multiple choic
 
 Pseudocode:
 
-1. The following data should be inputted into the program.
-	a. Christmas songs and lyrics (dictionary? list? create a file and then turn that file into a list in the program?)
-	b. Quotes from happy Christmas movies (Elf, A Christmas Story, Miracle on 34th Street)
-	c. Quotes from The Grinch
+1. The following data should be inputted into the program.<br>
+	a. Christmas songs and lyrics (dictionary? list? create a file and then turn that file into a list in the program?)<br>
+	b. Quotes from happy Christmas movies (Elf, A Christmas Story, Miracle on 34th Street)<br>
+	c. Quotes from The Grinch<br>
 2. The program will select a random Christmas song.
 3. The program will randomly select 7 words (in order) from the lyrics of the Christmas song that was previously selected by the program.
 	a. There must be a parameter set to only select a portion of lyrics beginning with 7 before the length of the lyrics, to avoid the program selecting less than 7 lyrics.
