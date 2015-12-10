@@ -13,6 +13,7 @@ Pseudocode:
 2. The program will select a random Christmas song.
 3. The program will randomly select 7 words (in order) from the lyrics of the Christmas song that was previously selected by the program.<br>
 	a. There must be a parameter set to only select a portion of lyrics beginning with 7 before the length of the lyrics, to avoid the program selecting less than 7 lyrics.<br>
+	b. Would need to make sure the question doesn't repeat on subsequent tries. (not sure how to do this?)<br>
 4. The program will print 4 multiple choice options. One of the options will be the correct Christmas song from number 2. The other 3 multiple choice options will be other Christmas songs, chosen at random and which changes on every game.
 5. The program will ask the user to input their answer selection.
 6. The user will read the song lyrics and the multiple choice answers and will input their answer selection.
